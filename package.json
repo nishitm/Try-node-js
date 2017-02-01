@@ -1,0 +1,27 @@
+{
+  "name": "Try-node-js",
+  "version": "1.0.0",
+  "description": "This is my first node-js example",
+  "main": "web.js",
+  "scripts": {
+    "start": "node web.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishitm/Try-node-js.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Nishit",
+  "license": "Free",
+  "bugs": {
+    "url": "https://github.com/nishitm/Try-node-js/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.1"
+  },
+  "engines": {
+      "node": "0.10.25"
+  }
+}
