@@ -19,7 +19,8 @@
     "url": "https://github.com/nishitm/Try-node-js/issues"
   },
   "dependencies": {
-    "express": "~4.14.1"
+    "express": "~4.14.1",
+    "ejs" :"~1.0.0"
   },
   "engines": {
       "node": "0.10.25"
