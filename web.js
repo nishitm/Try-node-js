@@ -10,6 +10,6 @@ app.get('/',fun(req,res){
 	});
 
 app.listen(p,fun(){
-	console.log("yoohoo!!! App is Running on port '+p);
+	console.log("yoohoo!!! App is Running on port "+p);
 	});
 	
